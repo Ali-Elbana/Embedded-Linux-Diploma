@@ -1,5 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
   "calendar",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-advanced-slides",
+  "better-word-count",
+  "table-editor-obsidian",
+  "url-into-selection"
 ]
