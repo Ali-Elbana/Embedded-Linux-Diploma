@@ -4,7 +4,7 @@
 		{"id":"ccdf2008712e6cc2","x":-1040,"y":-360,"width":1060,"height":600,"color":"2","type":"file","file":"Linux Architecture/Kernel.md"},
 		{"id":"00f4a7e95807e71f","x":-980,"y":-260,"width":400,"height":400,"color":"3","type":"file","file":"Linux Architecture/Network.md"},
 		{"id":"9ba1c10970ccb72a","x":-440,"y":-260,"width":400,"height":400,"color":"4","type":"file","file":"Linux Architecture/Process.md"},
-		{"id":"9ddfc88bf690cf23","x":-510,"y":-880,"width":400,"height":400,"color":"1","type":"file","file":"Linux Architecture/Glibc.md"}
+		{"id":"9ddfc88bf690cf23","x":-510,"y":-880,"width":400,"height":400,"color":"1","type":"file","file":"Linux Architecture/glibc.md"}
 	],
 	"edges":[
 		{"id":"805efbf41c6e4fe7","fromNode":"72dcdc5e42344f1a","fromSide":"bottom","toNode":"9ddfc88bf690cf23","toSide":"top"},
