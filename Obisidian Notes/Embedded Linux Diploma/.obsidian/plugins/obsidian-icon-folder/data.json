@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 15,
+    "emojiStyle": "native",
+    "iconColor": "#189a0e",
+    "recentlyUsedIcons": [
+      "SiGnometerminal",
+      "RiSlashCommands",
+      "FasLayerGroup",
+      "FasImages",
+      "FasPersonWalkingDashedLineArrowRight",
+      "SiLinux"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "1-Introduction": "FasPersonWalkingDashedLineArrowRight",
+  "2-Kernel Module": "SiLinux",
+  "Images": "FasImages",
+  "Linux Architecture": "FasLayerGroup",
+  "Linux Commands": "SiGnometerminal"
+}
